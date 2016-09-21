@@ -3,4 +3,4 @@
 ![alt text][img1]
 
 
-[img1]: https://github.com/ronmaru009/DSA/blob/master/linear%20search.PNG
+[img1]:https://github.com/ronmaru009/DSA/blob/master/linear-search/linear%20search.PNG
